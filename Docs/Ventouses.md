@@ -28,25 +28,33 @@ Cette version avait 2 failles:
 
 Neanmoins elle nous a permis de voir que le systéme de ventouses est assez puissant pour souslever les boites de conserve
 
-
 ## V2
 
 ![V2](Ventouses/V2.jpg)
-Cette version à la bonne forme et a 2 canneaux d'air pour resoudre le probléme de 
+Cette version à la bonne forme et a 2 canneaux d'air pour resoudre le probléme d'étancheité de prise
 
 
 ## V3
 ![V3](Ventouses/V3.jpg)
 
+Cette version a directement les adaptateurs ventouse intégrée dans l'impression, ça permet de reduire des fuites possible qu'impose une connexion filté 
 
 ![V3.1](Ventouses/V3_1.jpg)
 
-Cette version a directement les adaptateurs ventouse intégrée dans l'impression, ça permet de reduire des fuites possible qu'impose une connexion filté 
-
-Cette version a été testé sur le robot, et un soucis est en sorti, les ventouses etaient trop rigide, et avec un mouvement rectligne les Conservent ne s'asspirent pas et sont plutôt poussée vers l'avant
+Cette version a été testé sur le robot, et un soucis est en sorti, les ventouses etaient trop rigide, et avec un mouvement rectligne les Conservent ne s'asspirent pas et sont plutôt poussée vers l'avant.
+Modification également sur le design de l'accroche, désormai on peut rajouter des vis pour bloquer l'acctioneur sur l'accroche
 
 ## V4
 ![V4](Ventouses/V4.jpg)
 
-On a modifiée le desing pour adapter des ventous de ON Robot sur le préhenseur.
-les ventouses sont plus souple, et prennent plus rapidement la boite de conservation
+On a modifiée le desing pour adapter des ventous de ON Robot sur le préhenseur empruntée a gestionaire de l'usine école.
+les ventouses sont plus souple, et prennent plus rapidement la boite de conservation sans pousser trop loin la boite de conserve.
+
+# Particularité
+
+Chaque version de cette actionneur a une même type d'acchroche au robot, en quelques action le préhenseur peut etre echangée pour un autre, le systéme qui permet ceci est la suivante
+
+![alt text](Ventouses/Attachement.png)
+
+
+![alt text](Ventouses/Attachementexemple.png)

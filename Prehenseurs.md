@@ -1,6 +1,7 @@
 ---
 title: Construction tribune
 layout: default
+nav_order: 3
 ---
 
 # La problématique 
@@ -41,5 +42,4 @@ Il y a plusieurs technologies utilisables pour prendre des objets, voici ceux au
 
 le systéme d'électroaiment a été tentée par une personne a la coupe, et il en conclu qu'il faut un électroaiment trop puissant pour porter une boite de conserve, donc nous abandons cette techno pour l'instant.
 
-
-Nous allons essayer la technologie des ventouses d'abord
+Nous allons essayer la technologie des ventouses d'abord, faires des essaies pour savoir si on doit continuer a développer sur la même voie 

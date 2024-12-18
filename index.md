@@ -19,6 +19,4 @@ Cette année, le theme propose comme chaque année, de differentes actions, ceux
 ## La construction
 
 Cette année il faut construire des tribunes composée de 2 pilier et 1 planche, il sont superposable jusqu'a 3 niveaux. On ne peut pas construire les tribunes n'importe où,
-il faut deplacer les élement vers des zones précises attribuée a l'équipe.
-
-eiurfikeifhrikehbgfikrekiourfoki
+il faut deplacer les élement vers des zones précises attribuée a l'équipe. 

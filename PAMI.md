@@ -1,6 +1,7 @@
 ---
 title: PAMI
-layout: home
+layout: default
+nav_orde: 3
 ---
 
 # PAMI (Petit Automate Motorisé Indépendant)

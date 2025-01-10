@@ -1,6 +1,7 @@
 ---
 title: Objectifs
-layout: home
+layout: default
+nav_order: 2
 ---
 
 <div>

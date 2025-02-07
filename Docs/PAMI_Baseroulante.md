@@ -12,15 +12,15 @@ La base roulante sera composée de 2 moteur pas à pas (Nema 17) qui permettent 
 
 ## Les différents prototypes
 
-Prototype n°1 
+Prototype n°1
 
 ![Prototype1](PAMI_images/Baseroulante/Prototype1.png)
 
-Surface (en mm) : 140x110x40
-
-Prototype n°2
-
-![Prototype2](PAMI_images/Baseroulante/Prototype2.png)
-
 Surface (en mm) : 100x80x40
-Ce prototype intègre des fonctionnalités supplémentaires comme l'emplacement des capteurs laser mais également l'emplacement de la futur carte éléctronique et les moteurs pas à pas.
+Ce prototype intègre des fonctionnalités comme l'emplacement des capteurs laser mais également l'emplacement de la futur carte électronique et les moteurs pas à pas. 
+
+Prototype n°2 (en collaboration avec UniShape)
+
+![Prototype1](PAMI_images/Baseroulante/Prototype2.png)
+
+Le premier prototype est retravaillé afin d'être en adéquation avec notre cahier des charges mais également d'intégrer des élements supplémentaires non implémenté dans le premier prototype

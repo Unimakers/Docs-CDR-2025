@@ -16,7 +16,7 @@ Prototype n°1
 
 ![Prototype1](PAMI_images/Baseroulante/Prototype1.png)
 
-Surface (en mm) : 100x80x40
+Surface (en mm) : 100x80x40\
 Ce prototype intègre des fonctionnalités comme l'emplacement des capteurs laser mais également l'emplacement de la futur carte électronique et les moteurs pas à pas. 
 
 Prototype n°2 (en collaboration avec UniShape)

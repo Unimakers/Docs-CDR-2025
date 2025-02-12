@@ -30,7 +30,7 @@ Dans le but pouvoir se conformer au règlement et à notre stratégie nous avons
 
 #### Carte électronique
 
-![Carte_élec_V1](PAMI_images/electronique/CarteElecVersion1.png)
+![Carte_élec_V1](PAMI_images/electronique/CarteElecVersion1.png)\
 Dimension : 60*55 mm
 
 ### Deuxième version
@@ -41,5 +41,5 @@ Dimension : 60*55 mm
 
 #### Carte électronique
 
-![Carte_élec_V1.1](PAMI_images/electronique/CarteElecVersion1.1.png)
+![Carte_élec_V1.1](PAMI_images/electronique/CarteElecVersion1.1.png)\
 Dimension : 60*70 mm

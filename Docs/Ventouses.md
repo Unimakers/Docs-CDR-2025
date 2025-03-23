@@ -58,3 +58,14 @@ Chaque version de cette actionneur a une même type d'acchroche au robot, en que
 
 
 ![alt text](Ventouses/Attachementexemple.png)
+
+# Problémes rencontrée
+
+Avec la forme en "c", la boitte de conserve est prise fixe au niveau de l'axe x et l'axe Z, si on considére le centre du préhenseur un réferentiel cartésien dont l'axe Z est dans la direction des tuyeau de ventouses et l'axe y tracée par un trait entre les 2 ventouses
+suivant la régle de la main droite.
+
+L'axe y n'est pas contraint assez pour emmpecher a la boite de conserve a tourner autour de cet axe, le poid de celle ci est alors assez pour la faire pivoter et laisser tomber les planches au dessus d'elle
+
+
+# Conclusion 
+La ventouse de préhension est un bon concept, il faut neamoins la rafinner pour avoir quelque chose d'utilisable, il faut quelque chose pour la soutenir ainsi que soutenir les planches.

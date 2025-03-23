@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: home.
 nav_order: 1
 ---
 
@@ -20,4 +20,16 @@ Cette année, le theme propose comme chaque année, de differentes actions, ceux
 ## La construction
 
 Cette année il faut construire des tribunes composée de 2 pilier et 1 planche, il sont superposable jusqu'a 3 niveaux. On ne peut pas construire les tribunes n'importe où,
-il faut deplacer les élement vers des zones précises attribuée a l'équipe. 
+il faut deplacer les élement vers des zones précises attribuée a l'équipe.
+
+## La baniere
+
+Les robots doivent déposer des banieres afin de couvrir une sufrace de 500mmx 250mm bien visible dans le public, cette baniere doit etre embarquée sur le robot au départ du match, tout en respectant le périmetre 
+interieur.
+
+## Corégraphie
+cette partie est effectuée par les P.A.M.I, 2 types de pami sont le sujet de cette année:
+* la superstar: elle monte la rampe et fait un game of chicken avec la fin de la scènce, puis danse ou chante a la fin du match.
+* Les groupies: elles se metent devant la scène pour animer une corégrpahie
+
+

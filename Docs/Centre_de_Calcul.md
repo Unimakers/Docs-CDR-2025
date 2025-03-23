@@ -17,7 +17,6 @@ Ce dispositif peux également etre équipée de capteurs tel que des lidar, des 
 * Espace prédéfinie
 
 
-
 # Ce qui a été fait jusqu'a présent
 
 ## choix de matériel

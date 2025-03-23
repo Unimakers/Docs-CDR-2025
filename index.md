@@ -22,8 +22,6 @@ Cette année, le theme propose comme chaque année, de differentes actions, ceux
 Cette année il faut construire des tribunes composée de 2 pilier et 1 planche, il sont superposable jusqu'a 3 niveaux. On ne peut pas construire les tribunes n'importe où,
 il faut deplacer les élement vers des zones précises attribuée a l'équipe.
 
-<<<<<<< HEAD
-=======
 ## La baniere
 
 Les robots doivent déposer des banieres afin de couvrir une sufrace de 500mmx 250mm bien visible dans le public, cette baniere doit etre embarquée sur le robot au départ du match, tout en respectant le périmetre 
@@ -35,4 +33,3 @@ cette partie est effectuée par les P.A.M.I, 2 types de pami sont le sujet de ce
 * Les groupies: elles se metent devant la scène pour animer une corégrpahie
 
 
->>>>>>> 22edf663f1131129b77d86dccc558336e5cfabf9
